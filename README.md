@@ -1,4 +1,7 @@
-### Hi there 👋
+### Ciao! 👋 Im Ben Allan
+
+#### A Data Science and Information Systems student at Victoria Univerity of Wellington (VUW)
+
 
 <!--
 **benallan0/benallan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
