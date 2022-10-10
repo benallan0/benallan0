@@ -1,6 +1,8 @@
-##                                                                        Ciao! 👋 Im Ben Allan
+<p align="center">
+ <h1 align="center">Ciao! 👋 Im Ben Allan</h1>
+ <h3 align="center">A Data Science and Information Systems student at Victoria Univerity of Wellington (VUW)</h3>
+</p align="center">
 
-###                                       A Data Science and Information Systems student at Victoria Univerity of Wellington (VUW)
 
 
 <!--
