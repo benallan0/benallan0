@@ -1,6 +1,6 @@
-### Ciao! 👋 Im Ben Allan
+##                                                                        Ciao! 👋 Im Ben Allan
 
-#### A Data Science and Information Systems student at Victoria Univerity of Wellington (VUW)
+###                                       A Data Science and Information Systems student at Victoria Univerity of Wellington (VUW)
 
 
 <!--
